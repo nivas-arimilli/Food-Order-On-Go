@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.cache/
+.env
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Build
+dist/
+build/
